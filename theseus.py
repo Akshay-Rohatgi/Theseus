@@ -42,7 +42,7 @@ name = "{}"
 name = "{}"
 color = "{}"
 
-    '''.format(image_name, image_color)
+'''.format(image_name, image_color)
         handle.write(image_conf)
     i += 1
 
